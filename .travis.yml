@@ -10,4 +10,5 @@ after_success:
   - coveralls
 addons:
   sonarcloud:
-    organization: jwoytek
+    organization: jongseok123
+    project_key: jongseok123_lg24devsecops
